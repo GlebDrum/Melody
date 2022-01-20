@@ -1,0 +1,41 @@
+<svg 
+
+width="742" height="648" viewBox="0 0 742 648" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d)">
+<rect x="4" width="734" height="640" fill="url(#pattern0)"/>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="742" height="648" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(-0.00408719) scale(0.0013624 0.0015625)"/>
+</pattern>
+<image id="image0" width="740" height="640" xlink:href="img/home.png"/>
+</defs>
+<path  d="M229 534L449.8 542L519 528.3V550L450.5 569.7L229 558.7V534Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M230 533V508L450.3 511.3L520 508V528L450.7 541L230 533Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M230 507V482H451H520V505L452 512L230 507Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M230 483V458L451.3 454.3L519 461V483H451" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M230 457V431L451.5 427.7L520 438.7V460L451 453.3L230 457Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 430V406.3L450 394L521 417V438.3L450 426L229 430Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 408V383L451.2 366.7L521 395.3V416L450.7 394.3L229 408Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 383V358L451.5 337.7L521 374.3V395L449 366.3L229 383Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 357V333L452 308.3L521 352.3V374L451.7 336L229 357Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 332V308L451.5 279.3L521 330.3V351L450.7 308.7L229 332Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M228 308V284L450.3 251L521 310.3V330L451 279.3L228 308Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 283V259L450.2 224L520 288V309L451.3 250.7L229 283Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 259V234L451.3 196L520 266.3V287L451 223L229 259Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 233V208L449.8 164.3L520 243.3V266L451 192.7L229 233Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M230 209V184L450 136L520 221V244L449.3 164.7L230 209Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 184V159L448.8 107L520 199.3V222L450.3 135.7L229 184Z" fill="#3595F6" fill-opacity="0.75"/>
+<path  d="M229 159V133L451 76.3L520 178V199L450.7 107.3L229 159Z" fill="#3595F6" fill-opacity="0.75"/>
+</g>
+
+</svg>
